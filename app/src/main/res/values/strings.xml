@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyFirstAndroidApp</string>
+
+    <string name="main_title">Welcome to numbers game</string>
+    <string name="favorite_number">What is your lucky number ?</string>
+
+    <!--EditText-->
+    <string name="name_user">What is your name ?</string>
+    <string name="age_user">Type your Age</string>
+
+    <!--ButtonText-->
+    <string name="button_text">Here we go!</string>
+
+</resources>
